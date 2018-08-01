@@ -1,0 +1,29 @@
+<?xml version="1.0"?><svg width="15" height="15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>greenled15x15</title>
+ <defs>
+  <linearGradient xlink:href="#linearGradient5756" y2="0.846351" x2="0.609143" y1="0.057496" x1="0.532859" id="linearGradient6646"/>
+  <linearGradient xlink:href="#linearGradient5742" y2="1" x2="0.500488" y1="0.019227" x1="0.496181" id="linearGradient6644"/>
+  <linearGradient id="linearGradient6506">
+   <stop offset="0" stop-opacity="0" stop-color="#ffffff" id="stop6508"/>
+   <stop offset="1" stop-opacity="0.87451" stop-color="#ffffff" id="stop6510"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5756">
+   <stop offset="0" stop-color="#828282" id="stop5758"/>
+   <stop offset="1" stop-opacity="0.352941" stop-color="#929292" id="stop5760"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5742">
+   <stop offset="0" stop-color="#adadad" id="stop5744"/>
+   <stop offset="1" stop-color="#f0f0f0" id="stop5746"/>
+  </linearGradient>
+
+ </defs>
+ <g>
+  <g id="layer1">
+   <g transform="matrix(9.10805 0 0 9.10805 -182.091 -386.209)" id="g9447">
+    <path d="m21.465349,43.229595c0,0.3564 -0.289301,0.645599 -0.6457,0.645599c-0.3563,0 -0.645599,-0.2892 -0.645599,-0.645599c0,-0.356403 0.289299,-0.645603 0.645599,-0.645603c0.3564,0 0.6457,0.2892 0.6457,0.645603z" stroke-width="0.8" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" fill="url(#linearGradient6646)" id="path6598"/>
+    
+    <path d="m21.397749,43.229694c0,0.319099 -0.2589,0.577999 -0.578001,0.577999c-0.318998,0 -0.577999,-0.2589 -0.577999,-0.577999c0,-0.319 0.259001,-0.5779 0.577999,-0.5779c0.319101,0 0.578001,0.2589 0.578001,0.5779z" stroke-width="1" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" fill="#00ff00" id="path6600"/>
+   </g>
+  </g>
+ </g>
+</svg>

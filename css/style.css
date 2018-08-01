@@ -1,0 +1,190 @@
+*{
+	-webkit-touch-callout: none;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none; 
+    font-size: 11px;
+}
+
+.jumbotron {
+    padding: 2rem 3.75rem;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+#dateSelectContainer {
+    text-align: center;
+}
+
+.checkboxClassMetal{
+    position: relative;
+    width: 25px;
+    height: 25px;
+    background-size: contain;
+    margin: 0 auto;
+    border-radius: 30px;
+}
+
+.emptyCell{
+    position: relative;
+    width: 5px;
+    height: 5px;
+    background-size: contain;
+    margin: 0 auto;
+    opacity: 0.1;
+}
+
+.emptyCell:hover{
+    width: 10px;
+    height: 10px;
+    background-size: contain;
+    margin: 0 auto;
+    opacity: 0.5;
+}
+
+.completedPiece{
+    position: relative;
+    background-size: contain;
+    margin: 1px;
+}
+
+#doneContainer{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+
+#dayTitle{
+	text-align: center;
+}
+
+.dayValues{
+    position: relative;
+    display: block;
+}
+
+table{
+	text-align: center;
+}
+
+.leftAlign{
+	text-align: left;	
+}
+
+table {
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+
+td{
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.broken {
+    background-image: url(../img/broken.png);
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: right;
+    padding: 0;
+}
+
+.homeBase{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 5px;
+    left: 5px;
+}
+
+i{
+    position: absolute;
+    color: green;
+}
+
+#headerEmpty{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+#headerMindfullness{
+    position: relative;
+    width: 25px;
+    height: 25px;
+    background: url(../img/mindfullness.svg);
+    background-size: contain;
+    left: 50%;
+    -webkit-transform: translate(-50%, 0);
+            transform: translate(-50%, 0);
+}
+
+#headerStretching{
+    position: relative;
+    width: 25px;
+    height: 25px;
+    background: url(../img/stretching.svg);
+    background-size: contain;
+    left: 50%;
+    -webkit-transform: translate(-50%, 0);
+            transform: translate(-50%, 0);
+}
+
+#headerAssimil{
+    position: relative;
+    width: 25px;
+    height: 25px;
+    background: url(../img/assimil.svg);
+    background-size: contain;
+    left: 50%;
+    -webkit-transform: translate(-50%, 0);
+            transform: translate(-50%, 0);
+}
+
+#headerAnki{
+    position: relative;
+    width: 25px;
+    height: 25px;
+    background: url(../img/anki.svg);
+    background-size: contain;
+    left: 50%;
+    -webkit-transform: translate(-50%, 0);
+            transform: translate(-50%, 0);
+}
+
+#headerGym{
+    position: relative;
+    width: 25px;
+    height: 25px;
+    background: url(../img/gym.svg);
+    background-size: contain;
+    left: 50%;
+    -webkit-transform: translate(-50%, 0);
+            transform: translate(-50%, 0);
+}
+
+#logo{
+    position: absolute;
+}
+
+#title{
+    margin-left: 70px;
+}
+
+html, body { height:100%; }
+
+.outer-wrapper { 
+display: table;
+width: 100%;
+height: 100%;
+}
+
+.inner-wrapper {
+  display:table-cell;
+  vertical-align:middle;
+  padding:15px;
+}
+.login-btn { position:fixed; top:15px; right:15px; }
